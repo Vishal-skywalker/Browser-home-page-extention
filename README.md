@@ -1,8 +1,7 @@
 # Browser New Tab Override
 
-### This is a simple extention to override the new tab view in Chrome/Brave.
-<iframe src="index.html"></iframe>
+### This is a simple extension to override the new tab view in Chrome/Brave.
 
-Feel free to dowload and install this extention. [Here'a a link on how to.](https://www.thesslstore.com/blog/install-a-chrome-extension/)
+Feel free to download and install this extension. [Here'a a link on how to.](https://www.thesslstore.com/blog/install-a-chrome-extension/)
 
-Also feel free to send a PR.
+Also, feel free to send a PR.
